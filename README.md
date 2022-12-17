@@ -10,7 +10,7 @@
 
 <h2 align="left">👨🏻‍💻 About Me:</h2>
 
-- 💻 I'm currently working on React & Angular Stack
+- 💻 I'm currently working on React & Angular
 - 📖 Exploring MERN/MEAN
 - 💻 I use daily .js, .jsx, .ts, .tsx, .html , .scss , .css
 - ⚡ Always ready to collaborate for Dev Experiments
